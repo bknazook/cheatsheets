@@ -1,4 +1,5 @@
 Cheat Sheets for Data Curation
+
 These Cheat Sheets were designed to enable appraisal decisions for content types and file formats. There are several content categories:
 
 
