@@ -1,10 +1,16 @@
-Cheat Sheets for Data Curation
+# Cheat Sheets for Data Curation
 
-These Cheat Sheets were designed to enable appraisal decisions for content types and file formats. There are several content categories:
+These Cheat Sheets were designed to enable data curators to appropriately appraise and curate a variety of content types and file formats. There are several content categories:
 
 
 
-Each content type has a template that includes:
+# Each content type has a template that includes:
+Software programs designed to open the filetype, and any alternative software programs that can be used to open the file in various operating systems
+Any commands or instructions need to load the file and check contents
+Preservation recommendation
+Links to extended guidance where available
+Date created
+Date updated
 
 
 Cheat sheets are provided in both English and French.
