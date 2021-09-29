@@ -1,6 +1,6 @@
 # Cheat Sheets for Data Curation
 
-These Cheat Sheets were designed to enable data curators to appropriately appraise and curate a variety of content types and file formats. There are several content categories:
+These Cheat Sheets were designed to enable data curators to appraise a variety of content types and file formats for entry into a repository. There are several content categories covered:
 <ul><li>biomedical imaging</li><li>GIS filetypes</li><li>RStudio</li></ul>
 
 
