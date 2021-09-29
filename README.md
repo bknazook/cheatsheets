@@ -5,15 +5,11 @@ These Cheat Sheets were designed to enable data curators to appropriately apprai
 
 
 # Each content type has a template that includes:
-Software programs designed to open the filetype, and any alternative software programs that can be used to open the file in various operating systems
-Any commands or instructions need to load the file and check contents
-Preservation recommendation
-Links to extended guidance where available
-Date created
-Date updated
+<ul><li>Software programs designed to open the filetype, and any alternative software programs that can be used to open the file in various operating systems</li><li>Any commands or instructions need to load the file and check contents</li><li>Preservation recommendation</li><li>Links to extended guidance where available</li><li>Date created</li><li>Date updated</li>/ul>
+
 
 
 Cheat sheets are provided in both English and French.
 
-The purpose of presenting the Cheat Sheets publicly is encourage standardized and accessible practices in data curation and preservation. Furthermore, we seek to enable discussions on the methods presented and encourage any Issues to be raised for us to consider.
+The purpose of presenting these Cheat Sheets publicly is encourage transparency and standardization in the curation and preservation of research data formats. Furthermore, we seek to promote discussion on the methods presented. We welcome and encourage community contributions through the logging of Issues for us to consider.
 
